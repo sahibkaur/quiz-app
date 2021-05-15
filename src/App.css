@@ -2,10 +2,17 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.categories {
+  margin: 0 auto;
+  width: 1040px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
 }
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
