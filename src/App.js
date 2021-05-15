@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import QuizCategory from './QuizCategory'
 import './App.css';
 
